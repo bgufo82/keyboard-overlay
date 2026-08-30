@@ -1,0 +1,27 @@
+{
+  "num_slots": 5,
+  "square_size": 70,
+  "gap": 10,
+  "corner_radius": 12,
+  "max_opacity": 0.85,
+  "fade_in_ms": 120,
+  "hold_ms": 550,
+  "fade_out_ms": 400,
+  "bg_color": "#1e1e1e",
+  "text_color": "#ffffff",
+  "border_color": "#4da3ff",
+  "font_family": "Segoe UI",
+  "font_size": 20,
+  "anchor": "bottom-center",
+  "margin": 60,
+  "position_x": null,
+  "position_y": null,
+  "click_through": false,
+  "always_on_top": true,
+  "quit_hotkey": "ctrl+alt+q",
+  "reload_hotkey": "ctrl+alt+r",
+  "ignore_keys": [
+    "unknown"
+  ],
+  "fps": 60
+}
